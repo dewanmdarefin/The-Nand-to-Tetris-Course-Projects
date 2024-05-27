@@ -1,6 +1,6 @@
 # Nand to Tetris Course Projects
 
-This repository contains the projects completed as part of the Nand to Tetris course. The Nand to Tetris course is a self-paced journey from Boolean algebra to building a general-purpose computer system.
+This repository contains the projects completed as part of the [Nand to Tetris](https://www.nand2tetris.org/) course. The Nand to Tetris course is a self-paced journey from Boolean algebra to building a general-purpose computer system.
 
 ## Projects Overview
 
